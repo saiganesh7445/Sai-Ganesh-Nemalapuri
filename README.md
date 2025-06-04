@@ -1,9 +1,9 @@
 # Hi, I'm Sai-Ganesh-Nemalapuri 👋
 
 Welcome to my GitHub portfolio!  
-🌱 I’m passionate about [your interests]  
-💼 Currently working on [project or company]  
-🔗 [Link to portfolio website or LinkedIn]
+🌱 I’m passionate about [Data Analyst]  
+💼 Currently working on [Customer Churn analysis]  
+🔗 [SaiGanesh Nemalapuri](https://www.linkedin.com/in/sai-ganesh-a90233247)]
 
 ## Projects
 - [ Vocal Disorder Detection using
