@@ -6,10 +6,12 @@ Welcome to my GitHub portfolio!
 🔗 [Link to portfolio website or LinkedIn]
 
 ## Projects
-- [Project 1](link) - Short description
-- [Project 2](link) - Short description
+- [ Vocal Disorder Detection using
+ Deep Learning: A CNN and Bi-LSTM
+ Approach](https://github.com/saiganesh7445/vocal-Disease-classification) -  
+ 
 
 ## Skills
-- Python, JavaScript, React, etc.
+- Python, SQL, DataVisulaization, Statiscal Analysis etc.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=saiganesh7445&show_icons=true)
